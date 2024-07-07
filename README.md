@@ -1,0 +1,1 @@
+or this project, the dataset of Persian speech recordings with emotional annotations, 'SHEMO-Persian Speech Emotion Detection Database', was utilized. This dataset is publicly available on Kaggle(https://www.kaggle.com/datasets/mansourehk/shemo-persian-speech-emotion-detection-database)
